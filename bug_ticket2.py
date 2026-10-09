@@ -1,1 +1,0 @@
-print ("esse código resolve o bug2")
